@@ -1,0 +1,28 @@
+id: PF91A354F
+initial_creation_type: input
+source_metadata:
+  title: Exposition of the Cakrasaṃvaratantra (block print), colophon excerpt
+  author: tsong kha pa blo bzang grags pa/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-08-19); revised, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:klu grub/ (Gongkar Choede) (ld)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4868
+  bases:
+    94ac:
+      title: Exposition of the Cakrasaṃvaratantra (block print), colophon excerpt
+      order: 1
+      base_file: 94ac.txt
+created_at: '2022-04-15T18:42:08.380977'
+last_modified_at: '2022-04-15T18:42:08.380984'
+quality: null
